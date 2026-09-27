@@ -1,6 +1,6 @@
 🌐 **English** | [Русский](https://github.com/pan4ratte/pan4ratte/blob/main/README_RU.md) &emsp;&emsp;&emsp; ❤️ [Support development (RU cards)](https://pay.cloudtips.ru/p/c0e8eac4)
 
-My name is Mark Ingrem and I am a Religious Studies scholar. Apart from my main area of study (Protestant Political Theology in Russia), I teach a university course called "Information Technologies in Scientific Research", which is based on my own unique program. The projects below help me in my research, and I use them in my teaching.
+My name is Mark Ingrem and I am a Religious Studies scholar. Apart from my main area of study (Protestant Political Theology in Russia), I teach a university course called "Information Technologies in Scientific Research", which is based on my own program. The projects below help me in my research, and I use them in my teaching.
 
 Hello to every student who came across this page!
 
