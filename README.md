@@ -4,7 +4,12 @@ My name is Mark Ingrem and I am a Religious Studies scholar. Apart from my main 
 
 Hello to every student who came across this page!
 
-### My Obsidian plugins
+### Apps and tools
+
+- **Lectrix** · [GitHub](https://github.com/pan4ratte/lectrix) · [Download](https://github.com/pan4ratte/lectrix/releases/latest) — A free, open-source PDF editor for Windows, macOS and Linux: lightweight, fast, and designed with care. Read documents in tabs, annotate them, manage comments and bookmarks, number pages as the book does, and combine files.
+- **OpenTiles** · [GitHub](https://github.com/pan4ratte/open-tiles) · [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/opentiles/) — A free, modern, open-source and highly customizable visual bookmark manager and start page for your browser.
+
+### Obsidian plugins
 
 - **Publish to Telegram** · [GitHub](https://github.com/pan4ratte/obsidian-publish-to-telegram) · [Obsidian Store](https://community.obsidian.md/plugins/publish-to-telegram) — Post notes directly to Telegram channels, groups and private chats with different presets and advanced publishing settings.
 - **Pandoc GUI** · [GitHub](https://github.com/pan4ratte/obsidian-pandoc-gui) · [Obsidian Store](https://community.obsidian.md/plugins/pandoc-gui) — Export and import notes via Pandoc with a modern GUI on both desktop and mobile. Create templates for Word, PDF, LaTeX, HTML, EPUB, and many other formats, and install dozens of Lua filters from the store.
@@ -19,8 +24,4 @@ Hello to every student who came across this page!
 - **Zotero GOST Styles** · [GitHub](https://github.com/pan4ratte/zotero-gost-styles) — Carefully crafted Zotero citation styles following the Russian GOST R 7.0.5-2008, R 7.0.100-2018 and R 7.0.108-2022 standards, with multilingual localization, Ibid. and short-form repeat citations.
 - **Information Technologies in Scientific Research** · [GitHub](https://github.com/pan4ratte/course-it-in-science) — Official repository of my course on using Obsidian, Zotero, Pandoc and Calibre in research, including Pandoc Lua filters and Word templates (in Russian).
 - **Calibre Modern GNOME** · [GitHub](https://github.com/pan4ratte/calibre-modern-gnome) — A modern, clean icon theme for Calibre based on Ubuntu's Yaru-Blue style.
-- **Anticus** (contributor) · [GitHub](https://github.com/grandiozova/anticus) · [Open the app](https://grandiozova.github.io/anticus/) — An app for biblical scholars to learn the languages of Scripture: Biblical Hebrew and Ancient Greek. Works without installation, offline, on phone and in the browser (in Russian).
-
-### Browser extensions
-
-- **OpenTiles** · [GitHub](https://github.com/pan4ratte/open-tiles) · [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/opentiles/) — A free, modern, open-source and highly customizable visual bookmark manager and start page for your browser.
+- **Anticus** (contributor) · [GitHub](https://github.com/grandiozova/anticus) · [Open the app](https://grandiozova.github.io/anticus/) — An app for biblical scholars to learn ancient languages: Biblical Hebrew and Ancient Greek. Works without installation, offline, on phone and in the browser (in Russian).

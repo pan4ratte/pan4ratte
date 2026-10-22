@@ -4,7 +4,12 @@
 
 Привет всем студентам, которые зашли на эту страницу!
 
-### Мои плагины для Obsidian
+### Приложения и инструменты
+
+- **Lectrix** · [GitHub](https://github.com/pan4ratte/lectrix) · [Скачать](https://github.com/pan4ratte/lectrix/releases/latest) — Бесплатный PDF-редактор с открытым исходным кодом для Windows, macOS и Linux: лёгкий, быстрый и продуманный до мелочей. Читайте документы во вкладках, добавляйте аннотации, работайте с комментариями и закладками, нумеруйте страницы как в книге и объединяйте файлы.
+- **OpenTiles** · [GitHub](https://github.com/pan4ratte/open-tiles) · [Дополнения Firefox](https://addons.mozilla.org/firefox/addon/opentiles/) — Бесплатный, современный и гибко настраиваемый визуальный менеджер закладок с открытым исходным кодом и стартовая страница для вашего браузера.
+
+### Плагины для Obsidian
 
 - **Publish to Telegram** · [GitHub](https://github.com/pan4ratte/obsidian-publish-to-telegram) · [Obsidian Store](https://community.obsidian.md/plugins/publish-to-telegram) — Отправляйте заметки прямо в каналы, группы и личные сообщения Telegram с помощью пресетов и расширенных настроек публикации.
 - **Pandoc GUI** · [GitHub](https://github.com/pan4ratte/obsidian-pandoc-gui) · [Obsidian Store](https://community.obsidian.md/plugins/pandoc-gui) — Экспортируйте и импортируйте заметки с помощью Pandoc в современном графическом интерфейсе — как на компьютере, так и на мобильных устройствах. Создавайте шаблоны для Word, PDF, LaTeX, HTML, EPUB и многих других форматов, а также устанавливайте десятки lua-фильтров из магазина внутри плагина.
@@ -19,8 +24,4 @@
 - **Zotero GOST Styles** · [GitHub](https://github.com/pan4ratte/zotero-gost-styles) — Библиотека проработанных стилей цитирования для Zotero по ГОСТ Р 7.0.5-2008, Р 7.0.100-2018 и Р 7.0.108-2022. Стили корректно оформляют русские, английские, немецкие и французские источники, поддерживают «Там же» и сокращённые повторные ссылки.
 - **Информационные технологии в научных исследованиях** · [GitHub](https://github.com/pan4ratte/course-it-in-science) — Официальный репозиторий моего курса об использовании Obsidian, Zotero, Pandoc и Calibre в научной работе. Здесь же — lua-фильтры для Pandoc и шаблоны Word.
 - **Calibre Modern GNOME** · [GitHub](https://github.com/pan4ratte/calibre-modern-gnome) — Современная лаконичная тема иконок для Calibre в стиле Yaru-Blue из Ubuntu.
-- **Anticus** (участвую в разработке) · [GitHub](https://github.com/grandiozova/anticus) · [Открыть приложение](https://grandiozova.github.io/anticus/) — Помогает библеистам изучать языки Священного Писания: древнееврейский и древнегреческий. Работает без установки и интернета — на телефоне и в браузере.
-
-### Расширения для браузера
-
-- **OpenTiles** · [GitHub](https://github.com/pan4ratte/open-tiles) · [Дополнения Firefox](https://addons.mozilla.org/firefox/addon/opentiles/) — Бесплатный, современный и гибко настраиваемый визуальный менеджер закладок с открытым исходным кодом и стартовая страница для вашего браузера.
+- **Anticus** (участвую в разработке) · [GitHub](https://github.com/grandiozova/anticus) · [Открыть приложение](https://grandiozova.github.io/anticus/) — Помогает библеистам изучать древние языки: древнееврейский и древнегреческий. Работает без установки и интернета — на телефоне и в браузере.
